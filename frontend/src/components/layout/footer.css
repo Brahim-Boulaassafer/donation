@@ -1,0 +1,14 @@
+.main-footer{
+    margin-top: auto;
+    /* position: absolute;
+    bottom: 0;
+    left: 0; */
+    width: 100%;
+    text-align:center;
+    margin-top:10px;
+    background-color:#1976d2
+}
+.main-footer .footer{
+    padding:10px 0px;
+    color:#fff;
+}
